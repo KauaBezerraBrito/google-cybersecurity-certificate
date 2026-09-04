@@ -2,11 +2,29 @@
 
 This glossary contains cybersecurity terms and acronyms encountered throughout my studies.
 
+---
+
+## B
+
+### BEC
+
+Business Email Compromise.
+
+---
+
 ## C
 
 ### CIA Triad
 
 Confidentiality, Integrity, and Availability.
+
+### CISSP
+
+Certified Information Systems Security Professional.
+
+### CSIRT
+
+Computer Security Incident Response Team.
 
 ---
 
