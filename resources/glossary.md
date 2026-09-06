@@ -28,11 +28,31 @@ Computer Security Incident Response Team.
 
 ---
 
+## G
+
+### GDPR
+
+General Data Protection Regulation.
+
+---
+
+## I
+
+### ISO
+
+International Organization for Standardization.
+
+---
+
 ## N
 
 ### NIST
 
 National Institute of Standards and Technology.
+
+### NIST CSF
+
+NIST Cybersecurity Framework.
 
 ---
 
