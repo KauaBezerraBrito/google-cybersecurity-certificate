@@ -38,6 +38,10 @@ General Data Protection Regulation.
 
 ## I
 
+### IAM
+
+Identity and Access Management.
+
 ### ISO
 
 International Organization for Standardization.
@@ -53,6 +57,10 @@ National Institute of Standards and Technology.
 ### NIST CSF
 
 NIST Cybersecurity Framework.
+
+### NIST RMF
+
+NIST Risk Management Framework.
 
 ---
 
