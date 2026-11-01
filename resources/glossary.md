@@ -48,6 +48,14 @@ International Organization for Standardization.
 
 ---
 
+## M
+
+### MFA
+
+Multi-Factor Authentication.
+
+---
+
 ## N
 
 ### NIST
@@ -61,6 +69,14 @@ NIST Cybersecurity Framework.
 ### NIST RMF
 
 NIST Risk Management Framework.
+
+---
+
+## O
+
+### OWASP
+
+Open Worldwide Application Security Project.
 
 ---
 
